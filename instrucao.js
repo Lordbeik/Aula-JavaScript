@@ -31,3 +31,5 @@ switch(diaSem){
         console.log("Esse dia da semana não existe!");
         break;  
 }
+
+
